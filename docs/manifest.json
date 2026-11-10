@@ -1,0 +1,8 @@
+{
+  "name": "DM Request Notifier",
+  "description": "Shows a notification when you get a new DM (message) request.",
+  "authors": [{ "name": "prueba74848-wq" }],
+  "main": "index.js",
+  "hash": "7c05ab2957a16a1dc30c953efa5e8ec423220915fffc93483b5d314531d5bc99",
+  "vendetta": { "icon": "ic_message_retry" }
+}
